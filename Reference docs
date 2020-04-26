@@ -1,1 +1,6 @@
-
+By deafault,Python is installed in LINUX/Ubuntu
+Installing Jupyter
+pip3 install --upgrade pip (Install pip3 if needed)
+pip3 install jupyter
+Opening Notebook
+jupyter notebook (Install Jupyter libs if needed)
