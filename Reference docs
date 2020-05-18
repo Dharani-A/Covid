@@ -4,3 +4,12 @@ pip3 install --upgrade pip (Install pip3 if needed)
 pip3 install jupyter
 Opening Notebook
 jupyter notebook (Install Jupyter libs if needed)
+******GIT COMMANDS********
+use cd folder_name to move to the local repository
+git status  --> To check the status if the changs in local repository is reflected
+git add file_name --> TO add the spcific file to the master branch in git
+git status --> TO check if the add changes has been staged
+git commit -m 'Comments to be added' ---> To commit the changes added in previous step
+git status --> TO check the changes has been commited and is available for push
+git push ---> To push the comitted changes
+git usename and password has to be provided and yes the changes will be commited to the master branch n git
